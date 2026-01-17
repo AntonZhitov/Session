@@ -1,0 +1,18 @@
+backend-api/
+├── src/
+│   ├── Entity/
+│   │   └── Task.php
+│   ├── Repository/
+│   │   └── TaskRepository.php
+│   ├── Controller/
+│   │   └── TaskController.php
+│   └── Kernel.php
+├── config/
+│   ├── packages/
+│   │   ├── doctrine.yaml
+│   │   └── nelmio_cors.yaml
+│   └── routes.yaml
+├── migrations/
+├── .env
+├── composer.json
+└── symfony.lock

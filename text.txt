@@ -1,0 +1,10 @@
+frontend-app/
+├── src/
+│   ├── components/
+│   │   └── TaskList.vue
+│   ├── App.vue
+│   ├── main.js
+│   └── api.js
+├── public/
+├── package.json
+└── vite.config.js
